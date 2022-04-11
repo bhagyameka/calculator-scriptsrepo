@@ -1,2 +1,2 @@
-@Library('builddeploylibrary')_
+@Library('scriptsrepolibrary')_
 deploy "${BRANCH_NAME}"
